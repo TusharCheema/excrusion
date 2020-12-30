@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+}
+#para1{
+    color: aquamarine;
+    font-size: 16px;
+}
